@@ -2,3 +2,4 @@ dataset/
 python_scripts/
 output/
 __pycache__/
+catboost_info/
